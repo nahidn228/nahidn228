@@ -63,12 +63,12 @@ Welcome to my GitHub! I'm passionate about creating web applications that are bo
 
 🌟 **[Gadget Heaven](https://github.com/nahidn228/gadget-heaven)**  
 A responsive e-commerce platform with a shopping cart, wishlist, and product filtering.  
-**Tech Stack**: MERN (MongoDB, Express, React, Node.js), TailwindCSS, DaisyUI  
+**Tech Stack**: React,  TailwindCSS, DaisyUI  
 🌐 [Live Demo](https://gadget-bd.surge.sh/)
 
 🌟 **[EcoAdventure-Auth](https://github.com/nahidn228/EcoAdventure-Auth)**  
 A user authentication system for EcoAdventure, enabling secure sign-up, login, and user management features.  
-**Tech Stack**: MongoDB, Express, Node.js, JWT  
+**Tech Stack**:  React,  TailwindCSS, DaisyUI    
 🔒 [Live Demo](https://eco-adventure-auth-demo.surge.sh/)
 
 
