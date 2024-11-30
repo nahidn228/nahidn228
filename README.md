@@ -81,14 +81,42 @@ A cricket team selection app with validation and coin management.
 
 ## 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahidn228&show_icons=true&theme=radical&hide_title=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidn228&layout=compact&theme=radical)
+<h2 align="center">My Github Statistics 🔥</h2>   
+<br>
+<p align="center">
+<a href="https://github.com/nahidn228">
+<img align="center" alt="Nahid's Github stats"
+src="https://github-readme-stats.vercel.app/api?username=nahidn228&show_icons=true&theme=radical&hide_title=true&count_private=true"/>
+</a>
+   </p>
+ <br>
+  <p align="center"> 
+  <a href="https://github.com/nahidn228">
+    <img src="https://github-profile-trophy.vercel.app/?username=nahidn228&theme=radical" /> 
+  </a>
+</p>
+ <br>
+
+ <h2 align="center">Top Languages 🔥</h2>   
+<br>
+<p align="center">
+<a href="https://github.com/nahidn228">
+<img align="center" alt="Nahid's Github Top Languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidn228&layout=compact&theme=radical"/>
+</a>
+   </p>
 
 ---
 
-## 🔥 **GitHub Streaks**
+<h2 align="center"> 🔥 **GitHub Streaks**</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nahidn228&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+<a href="https://github.com/nahidn228">
+<img align="center" alt="Nahid's Github GitHub Streaks"
+src="https://streak-stats.demolab.com?user=nahidn228&theme=radical"/>
+</a>
+   </p>
+
 
 ---
 
