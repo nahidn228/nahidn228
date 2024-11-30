@@ -1,61 +1,37 @@
 # 👋 Hi, I'm Nahid  
 
-💻 **Junior Web Developer** | 🚀 **MERN Stack Enthusiast** | **Passionate About Web Development**
+**💻 🚀 — Aspiring MERN Stack Developer | Passionate Web Innovator 🌐**  
 
-Welcome to my GitHub! I'm passionate about creating web applications that are both functional and visually appealing.
+Welcome to my GitHub! I'm passionate about creating web applications that are both functional and visually appealing. Crafting Seamless Web Experiences with React, MongoDB, and More!
 
 ---
 
 ## 🌟 **About Me**
-- 🧑‍💻 I’m currently learning advanced **React**, **Node.js**, **MongoDB**, and **Full-Stack Development**.
-- 🌍 Based in **Bangladesh**, dreaming of contributing to global tech.
-- 💡 **Open to Collaboration**: Have a great idea? Let's build it together!
+
+- 🧑‍💻 I’m currently learning advanced **React**, **Node.js**, **MongoDB**, and **Full-Stack Development**.  
+- 🌍 Based in **Bangladesh**, dreaming of contributing to global tech.  
+- 💡 **Open to Collaboration**: Have a great idea? Let's build it together!  
+- 🎯 **Next Goal**: Mastering **TypeScript** for scalable application development.  
+
+---
+
+## 🎯 **Learning Journey**
+
+- 🌱 Currently diving deep into **MongoDB** for dynamic backend applications.  
+- 🎯 Targeting **TypeScript** to enhance code reliability and scalability.  
+- 📖 Exploring industry best practices to create robust, production-ready applications.  
 
 ---
 
 ## 🛠️ **Skills and Tools**
-<a href="https://github.com/nahidn228">
-    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" 
-         style="transition: transform 0.3s; transform: scale(1);" 
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'">
-</a>
-<a href="https://github.com/nahidn228">
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" 
-         style="transition: transform 0.3s; transform: scale(1);" 
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'">
-</a>
-<a href="https://github.com/nahidn228">
-    <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js" 
-         style="transition: transform 0.3s; transform: scale(1);" 
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'">
-</a>
-<a href="https://github.com/nahidn228">
-    <img src="https://img.shields.io/badge/Express-%23000000.svg?style=flat&logo=express&logoColor=white" alt="Express" 
-         style="transition: transform 0.3s; transform: scale(1);" 
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'">
-</a>
-<a href="https://github.com/nahidn228">
-    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" 
-         style="transition: transform 0.3s; transform: scale(1);" 
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'">
-</a>
-<a href="https://github.com/nahidn228">
-    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" 
-         style="transition: transform 0.3s; transform: scale(1);" 
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'">
-</a>
-<a href="https://github.com/nahidn228">
-    <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase" alt="Firebase" 
-         style="transition: transform 0.3s; transform: scale(1);" 
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'">
-</a>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)  
 
 ---
 
@@ -63,7 +39,7 @@ Welcome to my GitHub! I'm passionate about creating web applications that are bo
 
 🌟 **[Gadget Heaven](https://github.com/nahidn228/gadget-heaven)**  
 A responsive e-commerce platform with a shopping cart, wishlist, and product filtering.  
-**Tech Stack**: React,  TailwindCSS, DaisyUI  
+**Tech Stack**: React, TailwindCSS, DaisyUI  
 🌐 [Live Demo](https://gadget-bd.surge.sh/)
 
 🌟 **[EcoAdventure-Auth](https://github.com/nahidn228/EcoAdventure-Auth)**  
@@ -78,46 +54,11 @@ A cricket team selection app with validation and coin management.
 
 ---
 
+
+
 ## 📊 **GitHub Stats**
 
-<h2 align="center">My Github Statistics 🔥</h2>   
-<br>
-<p align="center">
-<a href="https://github.com/nahidn228">
-<img align="center" alt="Nahid's Github stats"
-src="https://github-readme-stats.vercel.app/api?username=nahidn228&show_icons=true&theme=radical&hide_title=true&count_private=true"/>
-</a>
-   </p>
- <br>
-  <p align="center"> 
-  <a href="https://github.com/nahidn228">
-    <img src="https://github-profile-trophy.vercel.app/?username=nahidn228&theme=radical" /> 
-  </a>
-</p>
- <br>
-
- <h2 align="center">Top Languages 🔥</h2>   
-<br>
-<p align="center">
-<a href="https://github.com/nahidn228">
-<img align="center" alt="Nahid's Github Top Languages"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidn228&layout=compact&theme=radical"/>
-</a>
-   </p>
-    <br>
-
----
-
-
-<h2 align="center"> 🔥 **GitHub Streaks**</h2>
-
-<p align="center">
-<a href="https://github.com/nahidn228">
-<img align="center" alt="Nahid's Github GitHub Streaks"
-src="https://streak-stats.demolab.com?user=nahidn228&theme=radical"/>
-</a>
-   </p>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahidn228&show_icons=true&theme=radical&hide_title=true&count_private=true)
 
 ---
 
@@ -128,16 +69,32 @@ src="https://streak-stats.demolab.com?user=nahidn228&theme=radical"/>
 ---
 
 ## 🤝 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nahidn228/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgray?style=flat&logo=github)](https://github.com/nahidn228/)
-📧 **Email**: nahidn228@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nahidn228/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgray?style=flat&logo=github)](https://github.com/nahidn228/)  
+📧 **Email**: nahidn228@gmail.com  
 
 ---
 
 ## 🏆 **Achievements**
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=nahidn228&theme=radical)
 
 ---
 
 ## ⚡ **Fun Fact**
+
 💡 I’m on a constant mission to explore new libraries and frameworks to stay ahead in the ever-changing web ecosystem.
+
+---
+
+## 🔥 **GitHub Streaks**
+
+![GitHub Streaks](https://streak-stats.demolab.com?user=nahidn228&theme=radical)
+
+---
+
+## 🕒 **Timeline**
+ 
+- **2024**: Started learning web development and built my first project. Completed several full-stack projects like **Gadget Heaven** and **EcoAdventure**.  
+- **2025**: Exploring **TypeScript** and contributing to open-source projects.  
