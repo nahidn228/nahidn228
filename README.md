@@ -68,9 +68,8 @@ A responsive e-commerce platform with a shopping cart, wishlist, and product fil
 
 🌟 **[EcoAdventure-Auth](https://github.com/nahidn228/EcoAdventure-Auth)**  
 A user authentication system for EcoAdventure, enabling secure sign-up, login, and user management features.  
-**Tech Stack**:  React,  TailwindCSS, DaisyUI    
+**Tech Stack**: React, TailwindCSS, Firebase  
 🔒 [Live Demo](https://eco-adventure-auth-demo.surge.sh/)
-
 
 🌟 **[BPL Dream 11](https://github.com/nahidn228/bpl-dream-11)**  
 A cricket team selection app with validation and coin management.  
@@ -105,8 +104,10 @@ src="https://github-readme-stats.vercel.app/api?username=nahidn228&show_icons=tr
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidn228&layout=compact&theme=radical"/>
 </a>
    </p>
+    <br>
 
 ---
+
 
 <h2 align="center"> 🔥 **GitHub Streaks**</h2>
 
@@ -140,6 +141,3 @@ src="https://streak-stats.demolab.com?user=nahidn228&theme=radical"/>
 
 ## ⚡ **Fun Fact**
 💡 I’m on a constant mission to explore new libraries and frameworks to stay ahead in the ever-changing web ecosystem.
-
----
-
