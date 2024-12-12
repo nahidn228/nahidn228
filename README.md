@@ -100,7 +100,11 @@ A cricket team selection app with validation and coin management.
 
 ## 🔥 **GitHub Streaks**
 
-![GitHub Streaks](https://streak-stats.demolab.com/?user=nahidn228&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nahidn228)](https://git.io/streak-stats)
+
+
+
+
 
 
 ---
