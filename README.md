@@ -59,9 +59,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nahidn228/nahidn228/output/snake.svg" alt="Snake animation" />
 
-###
 
 **💻 🚀 — Aspiring MERN Stack Developer | Passionate Web Innovator 🌐**  
 
@@ -155,11 +153,6 @@ A cricket team selection app with validation and coin management.
 
 ---
 
-## ⚡ **Fun Fact**
-
-💡 I’m on a constant mission to explore new libraries and frameworks to stay ahead in the ever-changing web ecosystem.
-
----
 
 ## 🔥 **GitHub Streaks**
 
