@@ -13,11 +13,11 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 ## 🌟 **About Me**
 
 <p align="left">  
-✨ Developing and refining skills since 2024.  
-📚 Currently learning **TypeScript** and improving my **full-stack development skills**.  
-🎯 **Goals**: Become a top-tier Full-Stack Developer and contribute to impactful open-source projects.  
-💡 **Open to Collaboration**: Have a great idea? Let's build it together!  
-📖 Constantly exploring best practices to create production-ready applications.  
+✨ Developing and refining skills since 2024.  <br>
+📚 Currently learning **TypeScript** and improving my **full-stack development skills**.  <br>
+🎯 **Goals**: Become a top-tier Full-Stack Developer and contribute to impactful open-source projects.  <br>
+💡 **Open to Collaboration**: Have a great idea? Let's build it together!  <br>
+📖 Constantly exploring best practices to create production-ready applications.  <br>
 🎲 Fun fact: I turn caffeine into code and ideas into reality!  
 </p>
 
