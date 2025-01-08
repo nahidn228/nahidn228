@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Full-Stack Developer</h2>
+<h2 align="left">💻 🚀 — Full-Stack Developer | Passionate Web Innovator 🌐</h2>
 
 ###
 
@@ -16,7 +16,9 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning TypeScript, and improving my full-stack development skills.<br>🎯 Goals: To become a top-tier Full-Stack Developer and contribute to impactful open-source projects.<br>🎲 Fun fact: I turn caffeine into code and ideas into reality!</p>
+## 🌟 **About Me**
+
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning TypeScript, and improving my full-stack development skills.<br>🎯 Goals: To become a top-tier Full-Stack Developer and contribute to impactful open-source projects.<br> 💡 **Open to Collaboration**: Have a great idea? Let's build it together! <br>🎲 Fun fact: I turn caffeine into code and ideas into reality!</p>
 
 ###
 
@@ -47,6 +49,8 @@
 </div>
 
 ###
+<h2 align="left">Lets connect with me</h2>
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nahidn228/" target="_blank">
@@ -59,22 +63,6 @@
 
 ###
 
-
-
-**💻 🚀 — Aspiring MERN Stack Developer | Passionate Web Innovator 🌐**  
-
-Welcome to my GitHub! I'm passionate about creating web applications that are both functional and visually appealing. Crafting Seamless Web Experiences with React, MongoDB, and More!
-
----
-
-## 🌟 **About Me**
-
-- 🧑‍💻 I’m currently learning advanced **React**, **Node.js**, **MongoDB**, and **Full-Stack Development**.  
-- 🌍 Based in **Bangladesh**, dreaming of contributing to global tech.  
-- 💡 **Open to Collaboration**: Have a great idea? Let's build it together!  
-- 🎯 **Next Goal**: Mastering **TypeScript** for scalable application development.  
-
----
 
 ## 🎯 **Learning Journey**
 
