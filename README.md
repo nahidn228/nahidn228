@@ -66,24 +66,7 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 
 ---
 
-## 🚀 **Highlighted Projects**
 
-🌟 **[Gadget Heaven](https://github.com/nahidn228/gadget-heaven)**  
-A responsive e-commerce platform featuring a shopping cart, wishlist, and product filtering.  
-**Tech Stack**: React, TailwindCSS, DaisyUI  
-🌐 [Live Demo](https://gadget-bd.surge.sh/)
-
-🌟 **[EcoAdventure-Auth](https://github.com/nahidn228/EcoAdventure-Auth)**  
-Secure sign-up, login, and user management for EcoAdventure.  
-**Tech Stack**: React, TailwindCSS, Firebase  
-🔒 [Live Demo](https://eco-adventure-auth-demo.surge.sh/)
-
-🌟 **[BPL Dream 11](https://github.com/nahidn228/bpl-dream-11)**  
-A cricket team selection app with coin management and validation.  
-**Tech Stack**: React, TailwindCSS  
-🔒 [Live Demo](https://dream-xi.surge.sh/)
-
----
 
 ## 📊 **GitHub Stats**
 
