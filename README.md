@@ -18,7 +18,7 @@
 
 ## 🌟 **About Me**
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning TypeScript, and improving my full-stack development skills.<br>🎯 Goals: To become a top-tier Full-Stack Developer and contribute to impactful open-source projects.<br> 💡 **Open to Collaboration**: Have a great idea? Let's build it together! <br>🎲 Fun fact: I turn caffeine into code and ideas into reality!</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning TypeScript, and improving my full-stack development skills.<br>🎯 Goals: To become a top-tier Full-Stack Developer and contribute to impactful open-source projects.<br> 💡 **Open to Collaboration**: Have a great idea? Let's build it together! <br>📖 Exploring industry best practices to create robust, production-ready applications.   <br>🎲 Fun fact: I turn caffeine into code and ideas into reality!</p>
 
 ###
 
@@ -50,6 +50,7 @@
 
 ###
 <h2 align="left">Lets connect with me</h2>
+
 ###
 
 <div align="left">
@@ -61,26 +62,6 @@
   </a>
 </div>
 
-###
-
-
-## 🎯 **Learning Journey**
-
-- 🌱 Currently diving deep into **MongoDB** for dynamic backend applications.  
-- 🎯 Targeting **TypeScript** to enhance code reliability and scalability.  
-- 📖 Exploring industry best practices to create robust, production-ready applications.  
-
----
-
-## 🛠️ **Skills and Tools**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)  
 
 ---
 
