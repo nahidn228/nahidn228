@@ -49,7 +49,8 @@
 </div>
 
 ###
-<h2 align="left">Lets connect with me</h2>
+
+<h2 align="left">🤝 Lets connect with me</h2>
 
 ###
 
@@ -60,6 +61,7 @@
   <a href="https://x.com/nahidn228" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
+  📧 **Email**: nahidn228@gmail.com  
 </div>
 
 
@@ -108,12 +110,12 @@ A cricket team selection app with validation and coin management.
 
 ---
 
-## 🤝 **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nahidn228/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgray?style=flat&logo=github)](https://github.com/nahidn228/)  
-📧 **Email**: nahidn228@gmail.com  
+###
 
+<img src="https://raw.githubusercontent.com/nahidn228/nahidn228/output/snake.svg" alt="Snake animation" />
+
+###
 ---
 
 ## 🏆 **Achievements**
