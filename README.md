@@ -23,9 +23,9 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 
 ---
 
-<h2 align="left">I Code With</h2>
+<h2 align="center">I Code With</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
@@ -39,7 +39,7 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 
 ---
 
-<h2 align="left">🛠 Tools</h2>
+<h2 align="center">🛠 Tools</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
@@ -52,7 +52,7 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 
 ---
 
-<h2 align="left">🤝 Let's Connect</h2>
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nahidn228/" target="_blank">
@@ -61,6 +61,8 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
   <a href="https://x.com/nahidn228" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
   </a>
+ 
+
   
 </div>
 
