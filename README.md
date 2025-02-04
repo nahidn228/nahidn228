@@ -14,7 +14,7 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 
 <p align="left">  
 ✨ Developing and refining skills since 2024.  <br>
-📚 Currently learning **TypeScript** and improving my **full-stack development skills**.  <br>
+📚 Currently learning **TypeScript and Next.js** and improving my **full-stack development skills**.  <br>
 🎯 **Goals**: Become a top-tier Full-Stack Developer and contribute to impactful open-source projects.  <br>
 💡 **Open to Collaboration**: Have a great idea? Let's build it together!  <br>
 📖 Constantly exploring best practices to create production-ready applications.  <br>
