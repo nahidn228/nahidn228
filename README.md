@@ -94,9 +94,9 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 
 <h2 align="center">🌐 Contribution Graph </h2>
 
-<div align="center"> 
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidn228&theme=github)
-</div>
+
 
 
 
@@ -104,9 +104,9 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 
 <h2 align="center">🏆 Achievements </h2>
 
-<div align="center"> 
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=nahidn228&theme=radical)
-</div>
+
 
 
 ---
@@ -116,9 +116,9 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 
 <h2 align="center">🔥 GitHub Streaks </h2>
 
-<div align="center"> 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=nahidn228)](https://git.io/streak-stats)
-</div>
+
 
 
 
