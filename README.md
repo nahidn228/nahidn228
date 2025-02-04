@@ -41,7 +41,7 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 
 <h2 align="center">🛠 Tools</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
@@ -54,7 +54,7 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 
 <h2 align="center">🤝 Let's Connect</h2>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/nahidn228/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
@@ -69,17 +69,21 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 ---
 
 
+<h2 align="center">📊 GitHub Stats</h2>
 
-## 📊 **GitHub Stats**
-
+<div align="center"> 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahidn228&show_icons=true&theme=radical&count_private=true)
+</div>
+
+
 
 ---
 
 
-## 🔤 Top Languages
 
-<p >
+<h2 align="center">🔤 Top Languages</h2>
+
+<p align="center">
   <a href="https://github.com/nahidn228">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidn228&layout=compact&theme=radical" alt="Top Languages" />
   </a>
@@ -87,32 +91,42 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 
 
 
-## 🌐 **Contribution Graph**
 
+<h2 align="center">🌐 Contribution Graph </h2>
+
+<div align="center"> 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidn228&theme=github)
+</div>
+
+
 
 ---
 
+<h2 align="center">🏆 Achievements </h2>
 
-## 🏆 **Achievements**
-
+<div align="center"> 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=nahidn228&theme=radical)
+</div>
+
 
 ---
 
 
-## 🔥 **GitHub Streaks**
 
+
+<h2 align="center">🔥 GitHub Streaks </h2>
+
+<div align="center"> 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nahidn228)](https://git.io/streak-stats)
-
-
+</div>
 
 
 
 
 ---
 
-## 🕒 **Timeline**  
+<h2 align="center">🕒 Timeline </h2>
+ 
 
 - **2024**: Began my web development journey and built several full-stack projects.  
 - **2025**: Learning **TypeScript**, contributing to open-source projects.
