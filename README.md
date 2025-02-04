@@ -71,9 +71,9 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center"> 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahidn228&show_icons=true&theme=radical&count_private=true)
-</div>
+
 
 
 
