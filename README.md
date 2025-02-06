@@ -61,6 +61,11 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
   <a href="https://x.com/nahidn228" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
   </a>
+ <a href="+8801798324439" target="_blank">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  
+</div>
  
 
   
