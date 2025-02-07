@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/nahidn228/nahidn228/refs/heads/main/Nahid%20hasan%20(1).png" />
+  <img height="200" src="https://raw.githubusercontent.com/nahidn228/nahidn228/refs/heads/main/Nahid%20Hasan%20Banner.png" />
 </div>
 
 <h1 align="left">Nahid Hasan</h1>
