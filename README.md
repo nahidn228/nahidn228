@@ -76,10 +76,10 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-
+<p align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahidn228&show_icons=true&theme=radical&count_private=true)
 
-
+</p>
 
 
 ---
@@ -121,10 +121,10 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 
 <h2 align="center">🔥 GitHub Streaks </h2>
 
-
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=nahidn228)](https://git.io/streak-stats)
 
-
+</p>
 
 
 
@@ -133,5 +133,14 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 <h2 align="center">🕒 Timeline </h2>
  
 
-- **2024**: Began my web development journey and built several full-stack projects.  
-- **2025**: Learning **TypeScript**, contributing to open-source projects.
+
+- **2024**: Started my journey in web development and built several full-stack projects using the MERN stack. It was a year of learning by doing and falling in love with code.
+
+- **2025**: Diving deeper into the ecosystem — learning TypeScript, RDBMS, Prisma, Express, Redux, Mongoose, and leveling up with advanced Next.js.
+I'm also exploring tools and practices like Docker, Docker Compose, CI/CD, AWS, Cypress, and GraphQL, while actively contributing to open-source.
+
+- **2026 (Goal)** : Planning to master microservices, message brokers like Kafka or RabbitMQ, and get hands-on with Kubernetes and serverless platforms.
+I also want to strengthen my understanding of system design, DevOps, and performance optimization, while continuing to grow through open-source and real-world projects.
+
+
+
