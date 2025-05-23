@@ -76,10 +76,10 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahidn228&show_icons=true&theme=radical&count_private=true)
 
-</p>
+
 
 
 ---
@@ -121,10 +121,10 @@ I'm a passionate Full-Stack Developer with a knack for building dynamic, user-fr
 
 <h2 align="center">🔥 GitHub Streaks </h2>
 
-<p align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=nahidn228)](https://git.io/streak-stats)
 
-</p>
+
 
 
 
