@@ -1,8 +1,11 @@
 
 
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/nahidn228/nahidn228/refs/heads/main/Nahid%20Hasan%20Banner.png" />
+<div style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/nahidn228/nahidn228/refs/heads/main/Nahid%20Hasan%20Banner.png" 
+       alt="Nahid Hasan Banner" 
+       style="width: 100%; height: auto; display: block;" />
 </div>
+
 
 <h1 align="center">👋 Hi, I'm Nahid Hasan</h1>
 
@@ -29,11 +32,12 @@
 const nahid = {
     location: "Dhaka, Bangladesh 🇧🇩",
     role: "MERN Stack Developer",
-    experience: "1+ years of hands-on development",
-    focus: ["Full-Stack Web Development", "RESTful APIs", "Database Design"],
+    education: "Professional Masters in IT (JU)",
+    experience: "1+ years of full-stack development",
+    expertise: ["React.js", "Node.js", "Express.js", "MongoDB"],
     currentlyLearning: ["TypeScript", "PostgreSQL", "Redux Toolkit"],
-    goals: ["Master System Design", "Contribute to Open Source", "Build SaaS Products"],
-    funFact: "I debug with console.log and I'm proud of it! 😄"
+    interests: ["System Design", "Open Source", "SaaS Development"],
+    funFact: "I treat debugging like detective work—console.log is my magnifying glass 🔍"
 };
 ```
 
@@ -45,34 +49,52 @@ const nahid = {
 
 ## 🛠️ **MERN Stack Expertise**
 
-<div align="center">
+<div align="center"> 
 
-### **Frontend Arsenal**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="Tailwind" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="Redux" />
 
-### **Backend Powerhouse**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="50" alt="Mongoose" />
-
-### **Development Tools**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="NPM" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
+| Frontend | Backend | Tools & Cloud |
+|----------|---------|---------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" /> React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" /> Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" /> Git |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" /> Next.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express" /> Express | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" /> GitHub |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" /> JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" /> MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" /> VS Code |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" /> TypeScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="50" alt="Mongoose" /> Mongoose | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="NPM" /> NPM |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" alt="Tailwind" /> Tailwind | | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" /> Firebase |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="Redux" /> Redux | | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" /> Figma |
 
 </div>
 
 ---
+
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahidn228&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidn228&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+## 🔥 **Contribution Activity**
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nahidn228&theme=tokyonight&hide_border=true&background=0D1117)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidn228&theme=tokyo-night&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+
+
+
+
+
 
 ## 💼 **Current Project Spotlight**
 
@@ -118,66 +140,10 @@ const nahid = {
 
 ---
 
-## 🎯 **Skills Breakdown**
 
-```yaml
-Frontend:
-  ⭐⭐⭐⭐⭐ React.js & Hooks
-  ⭐⭐⭐⭐⭐ JavaScript (ES6+)
-  ⭐⭐⭐⭐⭐ HTML5 & CSS3
-  ⭐⭐⭐⭐⭐ Responsive Design
-  ⭐⭐⭐⭐⚪ TypeScript
-  ⭐⭐⭐⭐⚪ Next.js
-  ⭐⭐⭐⚪⚪ Redux/RTK
-
-Backend:
-  ⭐⭐⭐⭐⭐ Node.js & Express.js
-  ⭐⭐⭐⭐⭐ RESTful API Design
-  ⭐⭐⭐⭐⭐ MongoDB & Mongoose
-  ⭐⭐⭐⭐⚪ JWT Authentication
-  ⭐⭐⭐⚪⚪ PostgreSQL
-  ⭐⭐⭐⚪⚪ GraphQL
-
-DevOps & Tools:
-  ⭐⭐⭐⭐⚪ Git & GitHub
-  ⭐⭐⭐⭐⚪ Deployment (Vercel/Netlify)
-  ⭐⭐⭐⚪⚪ Firebase
-  ⭐⭐⚪⚪⚪ Docker
-```
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahidn228&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidn228&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
-## 🔥 **Contribution Activity**
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nahidn228&theme=tokyonight&hide_border=true&background=0D1117)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidn228&theme=tokyo-night&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
 
 ## 🏆 **Achievements & Milestones**
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=nahidn228&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
 
 **🎉 Recent Wins:**
 - ✅ Completed 15+ React projects
