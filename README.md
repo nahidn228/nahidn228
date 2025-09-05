@@ -12,7 +12,7 @@
 <h2 align="center">🚀 MERN Stack Developer | Building Digital Solutions from Dhaka, Bangladesh 🇧🇩</h2>
 
 <p align="center">
-  <em>Passionate about crafting scalable web applications with MongoDB, Express.js, React, and Node.js</em>
+  <em>I’m a Full-Stack MERN Developer who loves turning ideas into responsive, user-friendly web apps. 🚀 Skilled in React.js, Next.js, Node.js, MongoDB, Tailwind, and Redux Toolkit, I enjoy solving challenges, writing clean code, and building software that makes an impact. 💡 Always learning, experimenting, and leveling up my craft.</em>
 </p>
 
 <div align="center">
@@ -73,6 +73,7 @@ const nahid = {
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahidn228&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidn228&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
 
 </div>
 
